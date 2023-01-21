@@ -1,6 +1,7 @@
 # CPP_Project
 
-This is a repository wich I will be using for th projects I do in C++ in future.
+I will be using this repository for my project based learning of C++
+
 
 Myself Ayaskant Puhan.
 
