@@ -28,3 +28,14 @@ int main(){
 
 return 0;
 }
+
+void dispDetail(void){
+  system("cls");
+
+cout<<" - - - - - - - - - - - - - - - - - - - "<<endl;
+cout<<"|     Student Roll no. "<<roll<<"      |"<<endl;
+cout<<" - - - - - - - - - - - - - - - - - - - "<<endl;
+
+
+
+}
